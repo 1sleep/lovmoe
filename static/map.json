@@ -1,0 +1,223 @@
+{
+    "res": {
+        "bower_components/jquery/dist/jquery.js": {
+            "uri": "/bower_components/jquery/dist/jquery.js",
+            "type": "js"
+        },
+        "bower_components/mod/mod-amd.js": {
+            "uri": "/bower_components/mod/mod-amd.js",
+            "type": "js"
+        },
+        "bower_components/normalize.css/normalize.css": {
+            "uri": "/bower_components/normalize.css/normalize.css",
+            "type": "css",
+            "id": "bower_components/normalize.css/normalize.css"
+        },
+        "bower_components/owl.carousel/Gruntfile.js": {
+            "uri": "/bower_components/owl.carousel/Gruntfile.js",
+            "type": "js",
+            "deps": [
+                "load-grunt-tasks",
+                "pretty"
+            ]
+        },
+        "bower_components/owl.carousel/dist/assets/owl.carousel.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.carousel.css",
+            "type": "css",
+            "id": "bower_components/owl.carousel/dist/assets/owl.carousel.css"
+        },
+        "bower_components/owl.carousel/dist/assets/owl.carousel.min.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.carousel.min.css",
+            "type": "css"
+        },
+        "bower_components/owl.carousel/dist/assets/owl.theme.default.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.theme.default.css",
+            "type": "css",
+            "id": "bower_components/owl.carousel/dist/assets/owl.theme.default.css"
+        },
+        "bower_components/owl.carousel/dist/assets/owl.theme.default.min.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.theme.default.min.css",
+            "type": "css"
+        },
+        "bower_components/owl.carousel/dist/assets/owl.theme.green.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.theme.green.css",
+            "type": "css",
+            "id": "bower_components/owl.carousel/dist/assets/owl.theme.green.css"
+        },
+        "bower_components/owl.carousel/dist/assets/owl.theme.green.min.css": {
+            "uri": "/static/bower_components/owl.carousel/dist/assets/owl.theme.green.min.css",
+            "type": "css"
+        },
+        "bower_components/owl.carousel/dist/owl.carousel.js": {
+            "uri": "/bower_components/owl.carousel/dist/owl.carousel.js",
+            "type": "js"
+        },
+        "bower_components/owl.carousel/dist/owl.carousel.min.js": {
+            "uri": "/bower_components/owl.carousel/dist/owl.carousel.min.js",
+            "type": "js"
+        },
+        "modules/common/common.less": {
+            "uri": "/static/modules/common/common.css",
+            "type": "css",
+            "id": "modules/common/common.less"
+        },
+        "modules/common/concept/concept.less": {
+            "uri": "/static/modules/common/concept/concept.css",
+            "type": "css",
+            "id": "modules/common/concept/concept.less"
+        },
+        "modules/common/footer/footer.less": {
+            "uri": "/static/modules/common/footer/footer.css",
+            "type": "css",
+            "id": "modules/common/footer/footer.less"
+        },
+        "modules/common/header/header.less": {
+            "uri": "/static/modules/common/header/header.css",
+            "type": "css",
+            "id": "modules/common/header/header.less"
+        },
+        "modules/contact/contact.js": {
+            "uri": "/modules/contact/contact.js",
+            "type": "js",
+            "deps": [
+                "modules/contact/contact.less"
+            ]
+        },
+        "modules/contact/contact.less": {
+            "uri": "/static/modules/contact/contact.css",
+            "type": "css",
+            "id": "modules/contact/contact.less"
+        },
+        "modules/contact/form/form.less": {
+            "uri": "/static/modules/contact/form/form.css",
+            "type": "css",
+            "id": "modules/contact/form/form.less"
+        },
+        "modules/contact/info/info.less": {
+            "uri": "/static/modules/contact/info/info.css",
+            "type": "css",
+            "id": "modules/contact/info/info.less"
+        },
+        "modules/contact/location/location.less": {
+            "uri": "/static/modules/contact/location/location.css",
+            "type": "css",
+            "id": "modules/contact/location/location.less"
+        },
+        "modules/home/carousel/carousel.less": {
+            "uri": "/static/modules/home/carousel/carousel.css",
+            "type": "css",
+            "id": "modules/home/carousel/carousel.less"
+        },
+        "modules/home/case/case.less": {
+            "uri": "/static/modules/home/case/case.css",
+            "type": "css",
+            "id": "modules/home/case/case.less"
+        },
+        "modules/home/home.js": {
+            "uri": "/modules/home/home.js",
+            "type": "js",
+            "deps": [
+                "modules/home/home.less"
+            ]
+        },
+        "modules/home/home.less": {
+            "uri": "/static/modules/home/home.css",
+            "type": "css",
+            "id": "modules/home/home.less"
+        },
+        "modules/home/intro/intro.less": {
+            "uri": "/static/modules/home/intro/intro.css",
+            "type": "css",
+            "id": "modules/home/intro/intro.less"
+        },
+        "modules/loveProduct/loveProduct.html": {
+            "uri": "/modules/loveProduct/loveProduct.html",
+            "type": "html",
+            "deps": [
+                "modules/loveProduct/loveProduct.less"
+            ]
+        },
+        "modules/loveProduct/loveProduct.less": {
+            "uri": "/static/modules/loveProduct/loveProduct.css",
+            "type": "css",
+            "id": "modules/loveProduct/loveProduct.less"
+        },
+        "modules/product/about-private-steward/about-private-steward.less": {
+            "uri": "/static/modules/product/about-private-steward/about-private-steward.css",
+            "type": "css",
+            "id": "modules/product/about-private-steward/about-private-steward.less"
+        },
+        "modules/product/booking-process/booking-process.less": {
+            "uri": "/static/modules/product/booking-process/booking-process.css",
+            "type": "css",
+            "id": "modules/product/booking-process/booking-process.less"
+        },
+        "modules/product/booking-rules/booking-rules.less": {
+            "uri": "/static/modules/product/booking-rules/booking-rules.css",
+            "type": "css",
+            "id": "modules/product/booking-rules/booking-rules.less"
+        },
+        "modules/product/carousel/carousel.less": {
+            "uri": "/static/modules/product/carousel/carousel.css",
+            "type": "css",
+            "id": "modules/product/carousel/carousel.less"
+        },
+        "modules/product/exclude/exclude.less": {
+            "uri": "/static/modules/product/exclude/exclude.css",
+            "type": "css",
+            "id": "modules/product/exclude/exclude.less"
+        },
+        "modules/product/include/include.less": {
+            "uri": "/static/modules/product/include/include.css",
+            "type": "css",
+            "id": "modules/product/include/include.less"
+        },
+        "modules/product/intro/intro.less": {
+            "uri": "/static/modules/product/intro/intro.css",
+            "type": "css",
+            "id": "modules/product/intro/intro.less"
+        },
+        "modules/product/list/list.less": {
+            "uri": "/static/modules/product/list/list.css",
+            "type": "css",
+            "id": "modules/product/list/list.less"
+        },
+        "modules/product/menu/menu.less": {
+            "uri": "/static/modules/product/menu/menu.css",
+            "type": "css",
+            "id": "modules/product/menu/menu.less"
+        },
+        "modules/product/price-include/price-include.less": {
+            "uri": "/static/modules/product/price-include/price-include.css",
+            "type": "css",
+            "id": "modules/product/price-include/price-include.less"
+        },
+        "modules/product/product.js": {
+            "uri": "/modules/product/product.js",
+            "type": "js",
+            "deps": [
+                "modules/product/product.less"
+            ]
+        },
+        "modules/product/product.less": {
+            "uri": "/static/modules/product/product.css",
+            "type": "css",
+            "id": "modules/product/product.less"
+        },
+        "modules/product/travel-introduction/travel-introduction.less": {
+            "uri": "/static/modules/product/travel-introduction/travel-introduction.css",
+            "type": "css",
+            "id": "modules/product/travel-introduction/travel-introduction.less"
+        },
+        "modules/service/service-content.less": {
+            "uri": "/static/modules/service/service-content.css",
+            "type": "css",
+            "id": "modules/service/service-content.less"
+        },
+        "modules/variables.less": {
+            "uri": "/static/modules/variables.css",
+            "type": "css"
+        }
+    },
+    "pkg": {}
+}

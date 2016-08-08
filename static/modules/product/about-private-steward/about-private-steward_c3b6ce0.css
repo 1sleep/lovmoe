@@ -1,0 +1,42 @@
+.about-private-steward-wrapper {
+  background-color: #ffffff;
+  width: 1003px;
+  margin: 0 auto;
+  padding-bottom: 67px;
+  position: relative;
+}
+.about-private-steward-title {
+  font-size: 21px;
+  color: #675da6;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.about-private-steward-title-em {
+  color: #49e3b1;
+}
+.about-private-steward-include-list-title,
+.about-private-steward-exclude-list-title {
+  font-size: 12px;
+  color: #88ebce;
+  line-height: 2.0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.about-private-steward-include-list p,
+.about-private-steward-exclude-list p {
+  font-size: 12px;
+  color: #88ebce;
+  line-height: 2.0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.about-private-steward-img {
+  display: block;
+  width: 350px;
+  height: 420px;
+  position: absolute;
+  bottom: 69px;
+  right: 0px;
+}

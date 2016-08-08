@@ -1,0 +1,99 @@
+.intro {
+  position: relative;
+  padding: 60px 0;
+}
+.intro-wrapper {
+  background-color: #fafafa;
+}
+.intro-title {
+  color: #3b3571;
+  font-size: 22px;
+  line-height: 1.2;
+}
+.intro-tags-label {
+  float: left;
+  font-size: 12px;
+  margin: 0;
+  line-height: 1.2;
+  color: #918eab;
+  margin-right: 10px;
+}
+.intro-tags-list {
+  float: left;
+  list-style: disc;
+  line-height: 1.2;
+}
+.intro-tags-list li {
+  margin-right: 15px;
+  margin-left: 10px;
+  float: left;
+  font-size: 12px;
+}
+.intro-tags-list li:nth-child(1) {
+  color: #ffce43;
+}
+.intro-tags-list li:nth-child(2) {
+  color: #54dbee;
+}
+.intro-tags-list li:nth-child(3) {
+  color: #8aebb8;
+}
+.intro-tags-list li:nth-child(4) {
+  color: #7998eb;
+}
+.intro-desc {
+  color: #918eab;
+  font-size: 12px;
+  line-height: 1.8;
+  width: 590px;
+}
+.intro-meta {
+  position: absolute;
+  width: 294px;
+  height: 135px;
+  background: url("/static/modules/product/intro/meta_60284b1.png") 0 0 no-repeat scroll;
+  right: 0;
+  top: 60px;
+}
+.intro-duration {
+  font-size: 14px;
+  color: #f2fc43;
+  text-align: center;
+  margin: 20px 0 10px;
+}
+.intro-location {
+  padding: 0 30px;
+  margin-bottom: 10px;
+}
+.intro-location .vehicle {
+  width: 22px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 3px;
+}
+.intro-location .vehicle.airplane {
+  background: url("/static/modules/product/intro/air_36cd9b2.png") 0 0 no-repeat scroll;
+}
+.intro-location-start {
+  float: left;
+  color: #fff;
+}
+.intro-location-line {
+  float: left;
+  margin: 0 15px;
+  color: #fff;
+}
+.intro-location-end {
+  float: left;
+  color: #fff;
+}
+.intro-price {
+  text-align: center;
+  font-size: 34px;
+  color: #fff;
+}
+.intro-price-unit {
+  margin-left: 4px;
+  font-size: 18px;
+  color: #f8ff35;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script type="text/javascript" src="jquery-1.11.3.js"></script>
+<script type="text/javascript" src="jquery.validate.js"></script>
+<script type="text/javascript">
+	$().ready(function(){
+		$("#Form").validate();
+	})
+</script>
+	
+	<title>login</title>
+</head>
+<body>
+<p>注册登录功能</p>
+<form id="Form" method="post" action="report.php">
+	<p>
+		<label for="name">姓名：</label>
+		<input class="required" type="text" id="name" name="name" /><br />
+	</p>
+	<p>
+		<label for="email">邮箱：</label>
+		<input class="required email" type="text" id="email" name="email" /><br />
+	</p>
+	<p>
+		<label for="phone">电话：</label>
+		<input class="{required:true}" type="text" id="phone" name="phone" /><br />
+	</p>
+	<p>
+		<input type="submit" value="注册" name="submit" />
+	</p>
+</form>
+</body>
+<style type="text/css">
+	input{
+		float: right;
+	}
+	form{
+		padding: 10px;
+		width:240px;
+	}
+	.error{
+		color: red;
+	}
+</style>
+</html>

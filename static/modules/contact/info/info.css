@@ -1,0 +1,69 @@
+.contact-info {
+  margin: 0 auto;
+  width: 1000px;
+  box-sizing: border-box;
+  padding: 100px 400px 0 0;
+  height: 500px;
+  position: relative;
+}
+.contact-info-title {
+  color: #3b3574;
+  margin: 0 auto;
+  font-weight: normal;
+  text-align: center;
+  font-size: 22px;
+  letter-spacing: 2px;
+}
+.contact-info-desc {
+  color: #a6a4b6;
+  font-size: 16px;
+  line-height: 2;
+}
+.contact-info-en {
+  color: #c0bed6;
+  text-align: center;
+  font-size: 14px;
+}
+.contact-info-line {
+  display: block;
+  border-bottom: 1px solid #736acc;
+  border-top: none;
+  width: 73px;
+  margin: 0 auto;
+}
+.contact-info-img {
+  width: 285px;
+  height: 285px ;
+  top: 100px;
+  right: 20px;
+  position: absolute;
+  background: url("./qrcode.jpg") 0 0 no-repeat scroll;
+  background-size: 100% auto;
+}
+.contact-info-type {
+  text-align: center;
+  margin-top: 40px;
+}
+.contact-info-type li {
+  display: inline-block;
+  margin: 0 18px;
+}
+.contact-info-type li a {
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-indent: -9999px;
+}
+.contact-info-type li a:hover {
+  background-color: #5ee1bc;
+}
+.contact-info-type-weibo {
+  background: #c8c8c8 url("./weibo.png") 10px 12px no-repeat scroll;
+}
+.contact-info-type-weixin {
+  background: #c8c8c8 url("./weixin.png") 10px 12px no-repeat scroll;
+}
+.contact-info-type-phone {
+  background: #c8c8c8 url("./phone.png") 16px 10px no-repeat scroll;
+}

@@ -1,0 +1,87 @@
+.case li {
+  margin-bottom: 20px;
+}
+.case .case-list {
+  padding-top: 60px;
+  padding-bottom: 120px;
+}
+.case-footer {
+  width: 46px;
+  height: 46px;
+  display: block;
+  position: absolute;
+}
+.case-footer-left {
+  background: url(/static/modules/home/case/case-footer-left_76390ef.png?__sprite) 0 0 no-repeat scroll;
+}
+.case-footer-right {
+  background: url(/static/modules/home/case/case-footer-right_84c5e7f.png?__sprite) 0 0 no-repeat scroll;
+}
+.case-list > li {
+  position: relative;
+}
+.case-list .case-item-01 .case-item {
+  float: left;
+}
+.case-list .case-item-01 .case-intro {
+  float: right;
+}
+.case-list .case-item-01 .case-footer {
+  top: 0;
+  right: 0;
+}
+.case-list .case-item-02 .case-item {
+  float: right;
+}
+.case-list .case-item-02 .case-intro {
+  float: left;
+}
+.case-list .case-item-02 .case-footer {
+  bottom: 0;
+  left: 0;
+}
+.case-list .case-item-03 .case-item {
+  float: left;
+}
+.case-list .case-item-03 .case-intro {
+  float: right;
+}
+.case-list .case-item-03 .case-footer {
+  bottom: 0;
+  right: 0;
+}
+.case-intro {
+  width: 314px;
+  height: 314px;
+  border: 1px solid #3b3573;
+}
+.case-item {
+  width: 665px;
+  height: 315px;
+}
+.case-intro-title {
+  color: #3b3574;
+  margin-top: 80px;
+  margin-bottom: 14px;
+  font-size: 24px;
+  line-height: 1;
+  text-align: center;
+}
+.case-intro-title-en {
+  color: #3b3574;
+  font-size: 16px;
+  line-height: 1;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.case-intro-line {
+  width: 50px;
+  border-bottom: 1px solid #3b3573;
+  margin: 0 auto 26px;
+}
+.case-intro-text {
+  font-size: 12px;
+  color: #999;
+  line-height: 2;
+  padding: 0 42px;
+}

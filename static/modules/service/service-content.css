@@ -1,0 +1,57 @@
+.service-content-wrapper {
+  width: 1056px;
+  margin: 0 auto;
+  padding-bottom: 145px;
+}
+.service-content-car h3,
+.service-content-play h3,
+.service-content-butler h3 {
+  font-size: 23px;
+  color: #312577;
+  margin-top: 59px;
+  margin-bottom: 13px;
+  text-align: center;
+}
+.service-content-car p,
+.service-content-play p,
+.service-content-butler p {
+  font-size: 15px;
+  color: #c9c8d0;
+  margin-bottom: 17px;
+  text-align: center;
+}
+.service-content-car i,
+.service-content-play i,
+.service-content-butler i {
+  display: block;
+  width: 76px;
+  height: 1px;
+  background-color: #7867d1;
+  margin: 0 auto;
+}
+.service-content-list {
+  width: 1056px;
+  margin-top: 51px;
+  overflow: hidden;
+}
+.service-content-item {
+  width: 298px;
+  border: 1px solid #d5d5d5;
+  float: left;
+  margin-right: 78px;
+}
+.service-content-item:nth-child(3) {
+  margin-right: 0;
+}
+.service-content-intro-title {
+  font-size: 16px;
+  color: #494077;
+  text-align: center;
+  margin-top: 20px;
+}
+.service-content-intro {
+  font-size: 13px;
+  color: #8582a1;
+  text-align: center;
+  line-height: 1.5;
+}

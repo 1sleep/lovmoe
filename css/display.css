@@ -1,0 +1,80 @@
+.picture1{
+	
+}
+.picture1 img{
+	
+	width: 100%;	
+}
+.introduce-header{
+	background-color: rgb(220,220,220);
+	padding-bottom: 34px;
+}
+header-arts{
+	text-align: center;
+	height: 400px;
+	width: 100%;
+	padding-top: 81px;
+	background-color: rgb(220,220,220);
+}
+.header-picture{
+	text-align: -moz-center;
+}
+.touxiang{
+	width: 100px;
+	height: 100px;
+	padding:2px;
+	background: #ececec;
+	border-radius:100px;
+	box-shadow: 0px 0px 1px rgba(0,0,0,0.4);
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+}
+.touxiang img{
+	width:100px;
+	height:100px; 
+	line-height: 0;
+	/* remove line-height */
+	display: inline-block;
+	/* circle wraps image */
+	border-radius: 50%;
+	/* relative value */
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	transition: linear 0.25s;
+}
+.p1{
+	text-align: center;
+	font-size: 22px;
+	color: rgb(25,25,112);
+}
+.p2{
+	text-align: center;
+	font-size: 17px;
+}
+.note{
+	padding: 0 16%;
+	padding-bottom: 50px;
+}
+.wugeyao{
+	padding: 22px 0;
+	text-align: center;
+}
+.bheader{
+	color: rgb(78,222,181);
+	font-size: 22px;
+	margin: 22px;
+
+}
+.picture{
+	width: 100%;
+}
+.texts{
+	line-height: 32px;
+}
+.b{
+	color: rgb(78,222,181);
+	font-size: 19px;
+}
+.header-p{
+	text-align: center;
+}

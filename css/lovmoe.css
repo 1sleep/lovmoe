@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bady{
+	font-family: sans-serif;
+}
+.toolbar-wrapper{
+	height: 25px;
+	width: 100%;
+	background: #1f1a3a;
+}
+.header{
+	margin: 0 auto;
+	width: 100%;
+}
+.header-title{
+	margin: 5px 0;
+	text-align: center;
+}
+.logo{
+	height: 80px;
+	margin: 0 auto;
+}
+#banner{
+	list-style: none;
+	padding: 0 16%; 
+	display: inline-block;
+
+}
+#banner li a{
+	float: left;
+	margin: 10px 25px;
+	text-decoration: none;
+	color: rgb(105,105,105);
+}
+#banner li a:hover{
+	color: #00c28b;
+}
+.carousel{
+	width: 100%;
+}
+.claerfix::after{
+	clear: both;
+	display: block;
+	visibility: hidden;
+}
+.header .nav-list{
+	margin-bottom: 0;
+	text-align: center;
+}
+.item{
+	padding: 0 16%;
+	background-color: rgb(240,255,255);
+	height: 210px;
+}
+.artl{
+	float: left;
+	width: 60%;
+}
+.titck{
+	float: left;
+	width: 30%;
+	background: red;
+	margin: 20px;
+}
+.label1{
+	color: rgb(255,165,0);
+	font-style: normal;
+}
+.label2{
+	color: rgb(0,250,154);
+	font-style: normal;
+}
+.label3{
+	color: rgb(0,255,127);
+	font-style: normal;
+}
+.label4{
+	color: rgb(72,118,255);
+	font-style: normal;
+}
+.title{
+	padding: 10px;
+}
+.text{
+	margin: 5px;
+}
+.label{
+	padding: 10px;
+}
+.somedays{
+	padding: 0 16%;
+	text-align: center;
+	margin: 0 auto;
+	margin: 33px;
+}
+.chinese{
+	font-size: 20px;
+	padding: 0 130px;
+}
+.english{
+	font-size: 17px;
+	color: rgb(211,211,211);
+	margin-left: 3px;
+}
+.travel-list{
+	list-style: none;
+}
+.travel-list li{
+	float: left;
+}
+.day1-2{
+	height: 400px;
+	padding: 0 16%;
+	text-align: center;
+}
+.from{
+	float: left;
+	padding: 50px;
+}
+.day-day{
+	float: left;
+	padding: 50px 0;
+}
+.to{
+	float: left;
+	padding: 50px;
+}
+.englishblue{
+	color: rgb(0,255,255);
+}

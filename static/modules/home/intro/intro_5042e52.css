@@ -1,0 +1,56 @@
+.intro-list {
+  text-align: center;
+}
+.intro-list li {
+  width: 66px;
+  margin: 60px 120px 60px;
+  display: inline-block;
+}
+.intro-list li .intro-item i {
+  display: block;
+}
+.intro-list li.intro-01 {
+  margin-left: 0;
+}
+.intro-list li.intro-04 {
+  margin-right: 0;
+}
+.intro-wrapper {
+  background: #fafafa;
+}
+.intro-item-icon {
+  width: 65px;
+  height: 58px;
+  margin-bottom: 20px;
+}
+.intro-01 .intro-item-icon {
+  background: url("/static/modules/home/intro/intro-01_30a04c7.png?__sprite") 5px 14px no-repeat scroll;
+}
+.intro-02 .intro-item-icon {
+  background: url("/static/modules/home/intro/intro-02_c9ca17c.png?__sprite") 0 0 no-repeat scroll;
+}
+.intro-03 .intro-item-icon {
+  background: url("/static/modules/home/intro/intro-03_bdd69dd.png?__sprite") 3px 8px no-repeat scroll;
+}
+.intro-04 .intro-item-icon {
+  background: url("/static/modules/home/intro/intro-04_a21919b.png?__sprite") 5px 0 no-repeat scroll;
+}
+.intro-item-text {
+  display: block;
+  font-size: 16px;
+  color: #3b3573;
+  margin-bottom: 10px;
+}
+.intro-more-arrow {
+  background: url("/static/modules/home/intro/arrow_9ab352b.png?__sprite") 0 0 no-repeat scroll;
+  width: 3px;
+  height: 6px;
+  position: relative;
+  top: -2px;
+  display: inline-block;
+}
+.intro-more {
+  color: #11c691;
+  font-size: 14px;
+  line-height: 1;
+}

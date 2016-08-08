@@ -1,0 +1,24 @@
+.concept {
+  background: #302b5d url("./concept.jpg") center 0 no-repeat scroll;
+  height: 254px;
+  box-sizing: border-box;
+}
+.concept-title {
+  color: #acb4f3;
+  padding-top: 80px;
+  font-size: 24px;
+  text-align: center;
+  line-height: 1;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.concept-title-en {
+  color: #7b86d5;
+  font-size: 16px;
+  line-height: 2;
+  text-align: center;
+}
+.concept-wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}

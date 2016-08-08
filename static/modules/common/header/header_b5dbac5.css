@@ -1,0 +1,91 @@
+.toolbar {
+  box-sizing: border-box;
+  padding: 6px 0;
+  width: 1000px;
+  margin: 0 auto;
+  line-height: 1;
+  font-size: 12px;
+}
+.toolbar-wrapper {
+  background: #1f1a3a;
+  height: 25px;
+}
+.toolbar-contact {
+  float: left;
+  color: #b4adf3;
+}
+.toolbar-contact:hover {
+  color: #fff;
+}
+.toolbar-contact .icon-contact {
+  width: 8px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 10px;
+  background: url("/static/modules/common/header/phone_3ccdd9d.png?__sprite") 0 0 no-repeat scroll;
+}
+.toolbar-user-center {
+  float: right;
+  line-height: 1;
+}
+.toolbar-user-center li {
+  float: left;
+}
+.toolbar-user-center li a {
+  color: #b4adf3;
+}
+.toolbar-user-center li a:hover {
+  color: #fff;
+}
+.toolbar-user-center li .split {
+  margin: 0 10px;
+  color: #b4adf3;
+}
+.header {
+  width: 1000px;
+  margin: 0 auto;
+}
+.header-title {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+.header-title .logo {
+  display: inline-block;
+  width: 72px;
+}
+.header-title .logo .icon-logo {
+  width: 70px;
+  height: 60px;
+  display: inline-block;
+  margin: 0 auto  8px;
+  background: url("/static/modules/common/header/logo_a524726.png?__sprite") 0 0 no-repeat scroll;
+}
+.header-title .logo .logo-title {
+  font-size: 14px;
+  line-height: 1;
+  color: #2d3856;
+  letter-spacing: 1px;
+  display: block;
+}
+.header .nav-list {
+  text-align: center;
+  margin-bottom: 0;
+}
+.header .nav-list li {
+  display: inline-block;
+  margin: 0 5px;
+}
+.header .nav-list li a {
+  color: #7b828c;
+  display: block;
+  padding: 17px 10px;
+  line-height: 1;
+  font-size: 16px;
+  border-bottom: 1px solid #fff;
+}
+.header .nav-list li a:hover,
+.header .nav-list li a.active {
+  color: #00c28b;
+  border-bottom: 1px solid #00c28b;
+}

@@ -1,0 +1,63 @@
+.price-include-wrapper {
+  background: url("/static/modules/product/price-include/price-include-bg-img_2783637.jpg") 0 0 repeat scroll;
+}
+.price-include-title {
+  font-size: 23px;
+  color: #f4fdfc;
+  text-align: center;
+  padding-top: 49px;
+}
+.price-include-title-en {
+  font-size: 15px;
+  color: #ededed;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 50px;
+}
+.price-include-list-wrapper {
+  width: 1020px;
+  margin: 0 auto;
+}
+.price-include-list {
+  margin-right: -122px;
+  overflow: hidden;
+  padding-bottom: 10px;
+}
+.price-include-item {
+  float: left;
+  width: 258px;
+  margin-right: 122px;
+  margin-bottom: 40px;
+}
+.price-include-icon {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+.price-include-icon-06 {
+  background: url("/static/modules/product/price-include/price-include-icon-06_45fc609.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-icon-05 {
+  background: url("/static/modules/product/price-include/price-include-icon-05_54a0730.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-icon-04 {
+  background: url("/static/modules/product/price-include/price-include-icon-04_4b340ce.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-icon-03 {
+  background: url("/static/modules/product/price-include/price-include-icon-03_c382ea9.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-icon-02 {
+  background: url("/static/modules/product/price-include/price-include-icon-02_739aa7e.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-icon-01 {
+  background: url("/static/modules/product/price-include/price-include-icon-01_6b2f362.png?__sprite") 0 0 no-repeat scroll;
+}
+.price-include-content {
+  display: inline-block;
+  font-size: 15px;
+  color: #f7fdfd;
+  padding-left: 13px;
+  margin-top: 10px;
+  line-height: 1.5;
+}

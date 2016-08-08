@@ -1,0 +1,98 @@
+.cost-include-description {
+  background: #fff;
+  width: 1004px;
+  margin: 0 auto;
+}
+.cost-include-title {
+  color: #48427d;
+  font-size: 21px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.cost-include-en {
+  font-size: 13px;
+  color: #c4c2d9;
+  text-align: center;
+  margin-top: 13px;
+  margin-bottom: 16px;
+}
+.cost-include-en-underline {
+  display: block;
+  margin: 0 auto;
+  width: 75px;
+  height: 1px;
+  background-color: #736acc;
+}
+.cost-include-list {
+  overflow: hidden;
+  margin-right: -176px;
+  padding-top: 43px;
+}
+.cost-include-item {
+  float: left;
+  width: 218px;
+  margin-right: 174px;
+  margin-bottom: 56px;
+  padding-top: 124px;
+  font-size: 14px;
+  color: #fff;
+  height: 218px;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+}
+.cost-include-item-06 {
+  background: url("/static/modules/product/include/cost-06.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-05 {
+  background: url("/static/modules/product/include/cost-05.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-04 {
+  background: url("/static/modules/product/include/cost-04.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-03 {
+  background: url("/static/modules/product/include/cost-03.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-02 {
+  background: url("/static/modules/product/include/cost-02.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-01 {
+  background: url("/static/modules/product/include/cost-01.png?__sprite") 0 0 no-repeat scroll;
+}
+.cost-include-item-02,
+.cost-include-item-05 {
+  width: 200px;
+  height: 200px;
+  margin-top: 9px;
+  margin-left: 9px;
+  padding-top: 115px;
+}
+.cost-include-item p {
+  position: absolute;
+  left: 9px;
+  top: -6px;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+  padding-top: 70px;
+  line-height: 1.6;
+  border-radius: 50%;
+  display: ;
+}
+.cost-include-item p.desc-color-01 {
+  background: #6fd9bc;
+}
+.cost-include-item p.desc-color-02 {
+  background: #a3a8e1;
+}
+.cost-include-item-02 p,
+.cost-include-item-05 p {
+  left: 1px;
+  top: -14px;
+}
+.cost-include-item:hover p {
+  display: block;
+}

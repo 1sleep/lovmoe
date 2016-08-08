@@ -1,0 +1,92 @@
+.booking-process-wrapper {
+  background: #58e0b8 url("/static/modules/product/booking-process/booking-process-bg-img_2783637.jpg") 0 0 repeat scroll;
+  overflow: hidden;
+  padding-bottom: 93px;
+}
+.booking-process-title {
+  font-size: 21px;
+  color: #feffff;
+  text-align: center;
+  margin-top: 47px;
+  margin-bottom: 0;
+}
+.booking-process-title-en {
+  font-size: 12px;
+  color: #d4fff7;
+  text-align: center;
+  margin-top: 13px;
+  margin-bottom: 12px;
+}
+.booking-process-title-underline {
+  display: block;
+  width: 73px;
+  height: 1px;
+  background-color: #7669d5;
+  margin: 0 auto 30px auto;
+}
+.booking-process-list {
+  width: 1002px;
+  height: 505px;
+  position: relative;
+  margin: 0 auto;
+}
+.booking-process-item {
+  width: 273px;
+  height: 272px;
+  border: 1px #e1f570 solid;
+  border-radius: 50%;
+  background-color: #58e0b8;
+}
+.booking-process-item h3 {
+  font-size: 18px;
+  color: #d9f6f1;
+  text-align: center;
+  margin-top: 94px;
+}
+.booking-process-item p {
+  font-size: 12px;
+  color: #d9f6f1;
+  text-align: center;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+.booking-process-serial-number {
+  display: block;
+  background-color: #58e0b8;
+  font-size: 47px;
+  color: #f8fd62;
+  position: absolute;
+  left: -26px;
+  top: 103px;
+}
+.booking-process-item-01 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+}
+.booking-process-item-02 {
+  position: absolute;
+  top: 0;
+  left: 384px;
+}
+.booking-process-item-03 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.booking-process-item-04 {
+  position: absolute;
+  bottom: 0;
+  left: 204px;
+}
+.booking-process-item-04 h3 {
+  margin-top: 58px;
+}
+.booking-process-item-05 {
+  position: absolute;
+  bottom: 0;
+  right: 180px;
+}
+.booking-process-item-05 h3 {
+  margin-top: 84px;
+}

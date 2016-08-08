@@ -1,0 +1,102 @@
+.cost-exclude-description {
+  background-color: #58e0b8;
+  margin: 0 auto;
+  padding-top: 58px;
+}
+.cost-exclude-title {
+  color: #f4fdfa;
+  font-size: 23px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.cost-exclude-en {
+  font-size: 15px;
+  color: #f4fdfa;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 16px;
+}
+.cost-exclude-en-underline {
+  display: block;
+  margin: 0 auto;
+  width: 75px;
+  height: 1px;
+  background-color: #736acc;
+}
+.cost-exclude-list-wrapper {
+  width: 1022px;
+  height: 422px;
+  padding-top: 50px;
+  margin: 0 auto;
+}
+.cost-exclude-list {
+  margin-right: -18px;
+  margin-bottom: -41px;
+}
+.cost-exclude-item {
+  position: relative;
+  width: 187px;
+  height: 187px;
+  margin-right: 18px;
+  float: left;
+  border: 1px #c6f4e7 solid;
+  border-radius: 99px;
+  margin-bottom: 41px;
+}
+.cost-exclude-item h3 {
+  color: #d6f7ed;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 58px;
+}
+.cost-exclude-item p {
+  color: #d6f7ed;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.cost-exclude-item .icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 33px;
+  left: 88px;
+}
+.cost-exclude-item .icon-010 {
+  background: url("/static/modules/product/exclude/exclude-010_a60a9c9.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-09 {
+  background: url("/static/modules/product/exclude/exclude-09_a60f5fa.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-08 {
+  background: url("/static/modules/product/exclude/exclude-08_9d66047.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-07 {
+  background: url("/static/modules/product/exclude/exclude-07_a91e022.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-06 {
+  background: url("/static/modules/product/exclude/exclude-06_255b3a6.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-05 {
+  background: url("/static/modules/product/exclude/exclude-05_c96da39.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-04 {
+  background: url("/static/modules/product/exclude/exclude-04_05ce57a.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-03 {
+  background: url("/static/modules/product/exclude/exclude-03_9003b8e.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-02 {
+  background: url("/static/modules/product/exclude/exclude-02_5170bce.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-item .icon-01 {
+  background: url("/static/modules/product/exclude/exclude-01_f68c77b.png?_sprite") 0 0 no-repeat scroll;
+}
+.cost-exclude-extra {
+  color: #067e56;
+  text-align: center;
+  font-size: 13px;
+  margin: 52px 0 0 0;
+  padding-bottom: 81px;
+}

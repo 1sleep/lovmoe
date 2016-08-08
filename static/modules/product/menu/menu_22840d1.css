@@ -1,0 +1,33 @@
+.product-menu {
+  overflow: hidden;
+  margin-right: -300px;
+  margin-bottom: -1px;
+}
+.product-menu-wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  border-bottom: 1px solid #eaeaea;
+}
+.product-menu li {
+  float: left;
+  margin-right: 300px;
+}
+.product-menu-item {
+  display: block;
+  text-align: center;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  border-bottom: 1px solid transparent;
+}
+.product-menu-item.active {
+  border-bottom: 1px solid #746acd;
+}
+.product-menu-item .cn {
+  display: block;
+  color: #635d8b;
+  margin-bottom: 7px;
+}
+.product-menu-item .en {
+  display: block;
+  color: #c6c3d8;
+}

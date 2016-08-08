@@ -1,0 +1,139 @@
+.travel-introduction-wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.travel-introduction-list {
+  margin-top: 60px;
+  padding-bottom: 60px;
+}
+.travel-introduction-item {
+  position: relative;
+}
+.travel-introduction-vertical {
+  display: block;
+  width: 1px;
+  height: 64px;
+  margin: 0 auto;
+  background-color: #8be9cf;
+}
+.travel-introduction-calendar {
+  display: block;
+  margin: 0 auto;
+  width: 43px;
+  text-align: center;
+  height: 110px;
+  background: url("/static/modules/product/travel-introduction/calendar.png") 0 0 no-repeat scroll;
+}
+.travel-introduction-calendar span {
+  font-size: 18px;
+  color: #75e5c1;
+  display: inline-block;
+  top: 22px;
+  position: relative;
+}
+.travel-introduction-spot-intro {
+  width: 1000px;
+  margin: 0 auto 21px;
+  line-height: 1.5;
+  font-size: 14px;
+  color: #a2a2a2;
+  text-align: center;
+}
+.travel-introduction-spot-list {
+  width: 1000px;
+  text-align: center;
+  margin-bottom: 40px;
+  list-style-type: disc;
+}
+.travel-introduction-spot {
+  font-size: 16px;
+  color: #323232;
+  margin: 0 auto;
+  display: inline;
+  margin-right: 10px;
+}
+.travel-introduction-spot:before {
+  width: 5px;
+  height: 5px;
+  margin-right: 5px;
+  top: -3px;
+  position: relative;
+  content: '';
+  background: #59dfba;
+  display: inline-block;
+  border-radius: 50%;
+}
+.travel-introduction-end {
+  font-size: 12px;
+  color: #73e5c3;
+  text-align: center;
+  margin-top: 37px;
+}
+.travel-introduction-img-wrapper {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #58e0ba;
+}
+.travel-introduction-calendar {
+  display: block;
+  width: 43px;
+  height: 110px;
+  background: url("./calendar.png") 0 0 no-repeat scroll;
+}
+.travel-introduction-calendar span {
+  font-size: 18px;
+  color: #75e5c1;
+}
+.travel-introduction-aircraft {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+  background: url("./aircraft-icon.png") 0 0 no-repeat scroll;
+}
+.travel-introduction-destination {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  width: 40px;
+  height: 40px;
+  background: url("./destination-icon.png") 0 0 no-repeat scroll;
+}
+.travel-introduction-item-first {
+  height: 145px;
+}
+.travel-introduction-item-last .travel-introduction-departure,
+.travel-introduction-item-last .travel-introduction-arrival {
+  top: 140px;
+}
+.travel-introduction-departure {
+  text-align: center;
+  right: 600px;
+  position: absolute;
+  top: 70px;
+}
+.travel-introduction-arrival {
+  text-align: center;
+  left: 600px;
+  top: 70px;
+  position: absolute;
+}
+.travel-introduction-from,
+.travel-introduction-to {
+  font-size: 13px;
+  color: #c9c7d2;
+  margin: 0;
+}
+.travel-introduction-departure-place,
+.travel-introduction-arrival-place {
+  font-size: 17px;
+  color: #6e6e6e;
+  margin-top: 13px;
+  margin-bottom: 10px;
+}
+.travel-introduction-departure-time,
+.travel-introduction-arrival-time {
+  font-size: 14px;
+  color: #8de7cb;
+  margin: 0;
+}

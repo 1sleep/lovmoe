@@ -1,0 +1,52 @@
+html {
+  -webkit-text-size-adjust: none;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: arial, 'Microsoft Yahei', '微软雅黑';
+}
+.section {
+  width: 1000px;
+  margin: 0 auto;
+}
+.section-title-wrapper {
+  padding-top: 60px;
+}
+.section-title {
+  font-size: 22px;
+  color: #3b3574;
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+.section-title-en {
+  font-size: 14px;
+  color: #c0bed6;
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 14px;
+}
+.section-line {
+  width: 74px;
+  margin: 0 auto;
+  border-bottom: 1px solid #736acc;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}

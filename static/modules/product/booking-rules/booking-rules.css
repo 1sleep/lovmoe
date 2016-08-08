@@ -1,0 +1,86 @@
+.booking-rules-wrapper {
+  width: 1001px;
+  border: 1px #5cdfb3 solid;
+  background-color: #ffffff;
+  margin: 55px auto 0 auto;
+  padding-bottom: 90px;
+  position: relative;
+}
+.booking-rules-title {
+  font-size: 21px;
+  color: #73dcbd;
+  text-align: center;
+  margin-top: 52px;
+}
+.booking-rules-title-en {
+  font-size: 13px;
+  color: #7ee6c5;
+  margin-top: 13px;
+  text-align: center;
+}
+.booking-rules-title-underline {
+  display: block;
+  width: 73px;
+  height: 1px;
+  background-color: #49e1b2;
+  margin: 15px auto 0 auto;
+  position: relative;
+  z-index: 100;
+}
+.booking-rules-arrow-inner {
+  position: absolute;
+  border-left: 20px solid #fff;
+  border-top: 20px solid #fff;
+  width: 0;
+  height: 0;
+  left: -1px;
+  top: -1px;
+  border-bottom: 20px solid transparent;
+  border-right: 20px solid transparent;
+  display: block;
+}
+.booking-rules-arrow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #5cdfb3;
+  width: 40px;
+  height: 40px;
+}
+.booking-rules-item {
+  margin: 0 auto;
+  position: relative;
+  padding-top: 42px;
+}
+.booking-rules-item h3 {
+  font-size: 17px;
+  color: #6ed6b3;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.booking-rules-item p {
+  font-size: 13px;
+  color: #57e2b8;
+  text-align: center;
+  margin-top: 14px;
+  margin-bottom: 10px;
+  line-height: 2.0;
+}
+.booking-rules-icon {
+  position: absolute;
+  top: -3px;
+  left: 493px;
+  width: 13px;
+  height: 37px;
+  background: url("/static/modules/product/booking-rules/booking-rules-icon.png?_spcirte") 0 0 no-repeat scroll;
+}
+.booking-rules-bg-img {
+  display: block;
+  width: 238px;
+  height: 283px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background: url("/static/modules/product/booking-rules/booking-rulse-bg-img.png") 0 0 no-repeat scroll;
+}
